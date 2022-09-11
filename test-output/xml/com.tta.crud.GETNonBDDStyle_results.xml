@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestfulBookerCRUD"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.215">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getAllBookingIds"
+                time="1.215"
+                classname="com.tta.crud.GETNonBDDStyle">
+            </testcase>
+</testsuite>

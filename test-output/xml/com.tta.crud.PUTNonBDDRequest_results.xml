@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestfulBookerCRUD"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.780">
+    <properties></properties>
+
+
+
+            <testcase
+                name="postRequest"
+                time="1.549"
+                classname="com.tta.crud.PUTNonBDDRequest">
+            </testcase>
+            <testcase
+                name="NonBDDStylePUTRequest"
+                time="1.231"
+                classname="com.tta.crud.PUTNonBDDRequest">
+            </testcase>
+</testsuite>
